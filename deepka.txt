@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B889-B890
+
+ Directory of C:\Users\Deepak\Desktop\swati\seleniumProgram\MyProjectAppiumtest\src
+
+26-06-2021  23:18    <DIR>          .
+26-06-2021  23:18    <DIR>          ..
+26-06-2021  23:18                 0 deepka.txt
+26-06-2021  23:14               468 Hello.class
+26-06-2021  01:09               155 Hello.java
+26-06-2021  22:29               413 hello1.class
+26-06-2021  22:34               126 hello1.java
+26-06-2021  23:10               579 index.html
+               6 File(s)          1,741 bytes
+               2 Dir(s)  694,565,330,944 bytes free
